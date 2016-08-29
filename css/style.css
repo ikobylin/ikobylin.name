@@ -1,0 +1,42 @@
+body {
+    font-family: Crimson Text, serif;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0 0 0.5em;
+    line-height: 1.2;
+}
+
+h2 {
+    margin: 1.5em 0 0.5em;
+    font-weight: normal;
+    font-size: 1.5625em;
+    line-height: 1.1;
+    color: #222;
+}
+
+p {
+    margin: 0 0 1.5em;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+
+p:first-of-type {
+    margin: 1.1429em 0;
+    font-size: 1.3125em;
+    line-height: 1.3333em;
+}
+
+a {
+    border-bottom: 1px solid #069;
+    color: #069;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 540px;
+    margin: 4em auto;
+    position: relative;
+}
